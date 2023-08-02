@@ -1,0 +1,13 @@
+body{
+  background-color: #eceff1;
+}
+
+#form-question{
+  margin-top: 5vh;
+}
+
+#little-duck{
+  width: 10vh;
+  height: 10vh;
+  border-radius: 50%;
+}
